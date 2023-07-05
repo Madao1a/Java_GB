@@ -44,8 +44,6 @@ public class task1 {
         System.out.println("mARS " + name + " = 10");
     } 
 
-
-
     public static void task2(){
         int max = 0;
         int counter = 0;
